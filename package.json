@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://pranavmappoli.github.io/supportdesk",
+  "homepage": "https://qwiksupport-frontend.onrender.com/",
   "private": true,
   "proxy": "https://qwiksupport-api.onrender.com/",
   "dependencies": {
